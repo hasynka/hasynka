@@ -4,4 +4,6 @@ public class SomeProgram {
         System.out.println("cokolwiek");
     }
 }
-ssssssssss
+public void manageTheSatellite() {
+    // TODO implement
+}
